@@ -1,0 +1,98 @@
+{
+  "R001": {
+    "price_vnd": "2500000000",
+    "price_basis": "total",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R002": {
+    "price_vnd": "2500000000",
+    "price_basis": "total",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R003": {
+    "price_vnd": "3000000000",
+    "price_basis": "total",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R004": {
+    "price_vnd": "2800000000",
+    "price_basis": "total",
+    "area_m2": "80",
+    "bedrooms": 3
+  },
+  "R005": {
+    "price_vnd": "15000000",
+    "price_basis": "per_month",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R006": {
+    "price_vnd": "2500000000",
+    "price_basis": "total",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R007": {
+    "price_vnd": "35000000",
+    "price_basis": "per_m2",
+    "area_m2": "85",
+    "bedrooms": 3
+  },
+  "R008": {
+    "price_vnd": "2200000000",
+    "price_basis": "total",
+    "area_m2": null,
+    "bedrooms": 2
+  },
+  "R009": {
+    "price_vnd": "2400000000",
+    "price_basis": "total",
+    "area_m2": "65",
+    "bedrooms": null
+  },
+  "R010": {
+    "price_vnd": "50000000",
+    "price_basis": "per_m2",
+    "area_m2": "100",
+    "bedrooms": null
+  },
+  "R011": {
+    "price_vnd": null,
+    "price_basis": null,
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R012": {
+    "price_vnd": "12000000",
+    "price_basis": "total",
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R013": {
+    "price_vnd": null,
+    "price_basis": null,
+    "area_m2": "72",
+    "bedrooms": 2
+  },
+  "R014": {
+    "price_vnd": null,
+    "price_basis": null,
+    "area_m2": "70",
+    "bedrooms": 2
+  },
+  "R015": {
+    "price_vnd": "1",
+    "price_basis": "total",
+    "area_m2": null,
+    "bedrooms": null
+  },
+  "R016": {
+    "price_vnd": "1300000000",
+    "price_basis": "total",
+    "area_m2": "30",
+    "bedrooms": 0
+  }
+}
